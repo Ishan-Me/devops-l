@@ -1,5 +1,5 @@
 #!/bin/bash
 # This is a comment (ignored by the system)
 
-echo "Hello from master + dev branch"
+echo "Pulled latest code from git hub"
 
