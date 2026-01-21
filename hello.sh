@@ -1,5 +1,5 @@
 #!/bin/bash
 # This is a comment (ignored by the system)
 
-echo "Hello from main branch"
+echo "Hello from master + dev branch"
 
